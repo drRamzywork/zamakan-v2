@@ -3,7 +3,6 @@ import React from 'react'
 import styles from './index.module.scss'
 import imgs from '../../../assets/constants/imgs'
 const PageHeader = () => {
-
   const { backgroundCity } = imgs;
 
   return (
